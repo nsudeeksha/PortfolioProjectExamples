@@ -20,7 +20,7 @@
 * [Varun](https://github.com/VarunKollipara/iOS-Portfolio-Kollipara22)
 * [Matt](https://github.com/mflzo/iOS-Portfolio-Falzone22)
 * [Will](https://github.com/WillPeyer/WPeyerPortfolio22/)
-
+* [Sudeeksha](https://github.com/nsudeeksha/iOSPortfolioNooka22)
 
 
 ### Fall 2020
